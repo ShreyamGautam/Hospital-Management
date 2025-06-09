@@ -36,8 +36,8 @@ A simple full-stack web application to manage patient records, including their p
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/patient-management-system.git
-cd patient-management-system
+git clone https://github.com/ShreyamGautam/Hospital-Management.git
+cd Hospital-Management
 ```
 
 ### 2. Setup Backend
